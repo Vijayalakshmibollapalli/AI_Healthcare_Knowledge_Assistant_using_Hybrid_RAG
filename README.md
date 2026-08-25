@@ -1,4 +1,4 @@
-**AI Healthcare Knowledge Assistant using Hybrid RAG**
+## **AI Healthcare Knowledge Assistant using Hybrid RAG**
 
 Finding reliable information from large medical research documents can be challenging. To address this, I built an **AI Healthcare Knowledge Assistant** using **Hybrid Retrieval-Augmented Generation (RAG)** to provide grounded answers from a medical research knowledge base.
 
